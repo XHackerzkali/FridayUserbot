@@ -24,7 +24,7 @@ USER_BOT_WARN_ZERO = "`You were spamming my Boss's inbox, henceforth your retard
 USER_BOT_NO_WARN = ("`Hello ! This is` **Modded Friday**\n"
                     "`Private Messaging Security Protocol ⚠️`\n\n"
                     "**Currently My Boss**\n"
-                    f"{DEFAULTUSER} is Busy ! So Better Don't Spam His Inbox Userbot Provided My @XHackerzKali!\n\n"
+                    f"{DEFAULTUSER} is Busy ! So Better Don't Spam His Inbox Userbot Provided My @XHackerzKali🍁!\n\n"
                     f"{CUSTOM_MIDDLE_PMP} \n\n"
                     "**Now You Are In Trouble So Send** 🍁 `/start` 🍁  **To Start A Valid Conversation!! Otherwise Got Fucked Up By My Userbot 🖕**")
 
