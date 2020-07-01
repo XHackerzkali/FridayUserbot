@@ -1,7 +1,7 @@
-# FRIDAY
+# MOdded Friday
 
 <p align="center">
-<img src="https://telegra.ph/file/c6aebe13c5960f8e2f39d.jpg" alt="FRIDAY USERBOT">
+<img src="https://telegra.ph/file/0752b5c104c7840ced18e.jpg" alt="FRIDAY USERBOT">
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
