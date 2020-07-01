@@ -116,4 +116,3 @@ if ENV:
 else:
     class Config(object):
         DB_URI = None
-        # Add your UniBorg Vars Here
