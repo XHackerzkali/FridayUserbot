@@ -1,5 +1,5 @@
 # Modded Friday 
-π😎 Kali Security System Injected 😎π
+😎Kali Security System😎
 
 <p align="center">
 <img src="https://telegra.ph/file/0752b5c104c7840ced18e.jpg" alt="FRIDAY USERBOT">
